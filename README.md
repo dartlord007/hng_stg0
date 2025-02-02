@@ -39,7 +39,7 @@ url_launcher: Used to launch URLs in the default browser.
 
 ## 🔗 Backlink
 
-[HNG Python Developers](http://hng.tech/hire/flutter-developers)
+[HNG Flutter Developers](http://hng.tech/hire/flutter-developers)
 
 ## 🎯 Contributing
 
