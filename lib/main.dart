@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               UrlButton(
-                url: 'https://github.com/dartlord007',
+                url: 'https://github.com/dartlord007/hng_stg0',
                 buttonText: 'GitHub Profile',
               ),
               SizedBox(height: 20), // Spacing between buttons
