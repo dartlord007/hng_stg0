@@ -47,6 +47,6 @@ Feel free to fork this repository, create a new branch, and submit a pull reques
 
 ## 📜 License
 
-This project is licensed under the MIT License. See the [LICENSE]([http://hng.tech/hire/flutter-developers](https://github.com/dartlord007/hng_stg0/blob/master/LICENSE))
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/dartlord007/hng_stg0/blob/master/LICENSE))
  file for details.
 
